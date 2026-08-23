@@ -1,2 +1,0 @@
-IMPORTANT: Replace the 'ABProfile.PNG' file in this folder with your actual uploaded image.
-Ensure the name is exactly ABProfile.PNG (case-sensitive).
